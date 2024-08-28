@@ -40,11 +40,16 @@ habilidades y también enfocar mi carrera en áreas como **Desarrollo Web**, **I
 
 💬: Pregúntame sobre como puedo aportar a tu **proyecto**.
 
-
+<br>
 
 ## 🔗 Contactame en:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelenriquerojas/)
+
+📧 [Correo: samm-rojas@hotmail.com](mailto:samm-rojas@hotmail.com)
+
+📞 [Teléfono: +57 3123086766](tel:+573123086766)
+
 
 
 
